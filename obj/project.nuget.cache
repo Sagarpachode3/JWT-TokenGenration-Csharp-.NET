@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "latNVp5FMxwpOXIIOuxnhcyFOKBEICirWOoorP3asAeRPy/dns+ONHhJ4Lr+K0ebGttGA/GYmjIJiAn9G7BrxQ==",
+  "success": true,
+  "projectFilePath": "D:\\dotNetInterview\\JWTApplication\\JWTApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pacho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

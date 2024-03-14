@@ -1,0 +1,17 @@
+D:\dotNetInterview\JWTApplication\bin\Debug\net8.0\JWTApplication.exe
+D:\dotNetInterview\JWTApplication\bin\Debug\net8.0\JWTApplication.deps.json
+D:\dotNetInterview\JWTApplication\bin\Debug\net8.0\JWTApplication.runtimeconfig.json
+D:\dotNetInterview\JWTApplication\bin\Debug\net8.0\JWTApplication.dll
+D:\dotNetInterview\JWTApplication\bin\Debug\net8.0\JWTApplication.pdb
+D:\dotNetInterview\JWTApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.csproj.AssemblyReference.cache
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.AssemblyInfoInputs.cache
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.AssemblyInfo.cs
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.csproj.CoreCompileInputs.cache
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.csproj.CopyComplete
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.dll
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\refint\JWTApplication.dll
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.pdb
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\JWTApplication.genruntimeconfig.cache
+D:\dotNetInterview\JWTApplication\obj\Debug\net8.0\ref\JWTApplication.dll
